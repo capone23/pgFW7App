@@ -3,84 +3,104 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <title>My App</title>
-    <!-- Path to Framework7 Library CSS-->
+    <title>xfinity moving app</title>
     <link rel="stylesheet" href="css/framework7.css">
-    <!-- Path to your custom app styles-->
-    <link rel="stylesheet" href="css/my-app.css">
+    <link rel="stylesheet" href="css/xfinity_ncta_demo.css">
+    <link rel="stylesheet" href="css/kitchen-sink.css">
   </head>
   <body>
-    <!-- Panels overlay-->
+    <div class="statusbar-overlay"></div>
     <div class="panel-overlay"></div>
-    <!-- Left panel with reveal effect-->
-    <div class="panel panel-left panel-reveal">
-      <div class="content-block">
-        <p>Left panel content goes here</p>
-      </div>
-    </div>
-    <!-- Right panel with cover effect-->
-    <div class="panel panel-right panel-cover">
-      <div class="content-block">
-        <p>Right panel content goes here</p>
-      </div>
-    </div>
-    <!-- Views-->
-    <div class="views">
-      <!-- Your main view, should have "view-main" class-->
-      <div class="view view-main">
-        <!-- Top Navbar-->
+    <div class="statusbar-overlay"></div>
+    <div class="panel-overlay"></div>
+
+    <div class="panel panel-right panel-reveal">
+      <div class="view view-right">
         <div class="navbar">
           <div class="navbar-inner">
-            <div class="left"><a href="#" class="link">Left Link</a></div>
-            <div class="center sliding">Awesome App</div>
-            <div class="right"><a href="#" class="link">Right Link</a></div>
+            <div class="left"></div>
+            <div class="center sliding"></div>
+            <div class="right"></div>
           </div>
         </div>
-        <!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes-->
+      </div>
+    </div>
+
+    <div class="views">
+      <div class="view view-main">
+
+        <div class="navbar splash-hdr">
+          <div class="navbar-inner">
+            <div class="center sliding"></div>
+            <div class="right"><a href="#" class="open-panel link icon-only"><i class="icon icon-bars-blue"></i></a></div>
+          </div>
+        </div>
         <div class="pages navbar-through toolbar-through">
-          <!-- Page, data-page contains page name-->
           <div data-page="index" class="page">
             <!-- Scrollable page content-->
-            <div class="page-content">
-              <div class="content-block-title">Welcome to Xfinity</div>
-              <div class="content-block">
-                <div class="content-block-inner">
-                  <p>Couple of worlds here because your app is so awesome ;)</p>
-                  <p>Hey look! You already have two panels, here comes your <a href="#" class="open-panel">Left panel</a> and your favorite <a href="#" data-panel="right" class="open-panel">Right panel</a> is also here!</p>
-                </div>
-              </div>
-              <div class="content-block-title">What about simple navigation?</div>
-              <div class="list-block">
-                <ul>
-                  <li><a href="page1.html" class="item-link">
+            <div class="page-content menuOverlayPage">
+              <div class="list-block menuOverlay">
+                <ul class="overlay-ipo">
+                  <li><a href="splash1.html" class="item-link">
                       <div class="item-content">
                         <div class="item-inner">
-                          <div class="item-title">Page 1</div>
+                          <div class="item-title">Social & Service</div>
                         </div>
                       </div></a></li>
                   <li><a href="page2.html" class="item-link">
                       <div class="item-content">
                         <div class="item-inner">
-                          <div class="item-title">Page 2</div>
+                          <div class="item-title">X-Port Troubleshooting</div>
                         </div>
-                      </div></a></li>
+                      </div></a>
+                  </li>
                 </ul>
               </div>
             </div>
           </div>
         </div>
-        <!-- Bottom Toolbar-->
-        <div class="toolbar">
-          <div class="toolbar-inner"><a href="#" class="link">Link 1</a><a href="#" class="link">Link 2</a></div>
+      </div>
+    </div>
+
+    <div class="popover popover-music">
+      <div class="popover-angle"></div>
+      <div class="popover-inner">
+        <div class="list-block media-list">
+          <ul>
+            <li><a href="#" class="item-link item-content">
+                <div class="item-media"><img src="http://hhhhold.com/88/d/jpg?13" width="44"></div>
+                <div class="item-inner">
+                  <div class="item-title-row">
+                    <div class="item-title">Yellow Submarine</div>
+                  </div>
+                  <div class="item-subtitle">Beatles</div>
+                </div></a></li>
+            <li><a href="#" class="item-link item-content">
+                <div class="item-media"><img src="http://hhhhold.com/88/d/jpg?23" width="44"></div>
+                <div class="item-inner">
+                  <div class="item-title-row">
+                    <div class="item-title">Don't Stop Me Now</div>
+                  </div>
+                  <div class="item-subtitle">Queen</div>
+                </div></a></li>
+            <li><a href="#" class="item-link item-content">
+                <div class="item-media"><img src="http://hhhhold.com/88/d/jpg?33" width="44"></div>
+                <div class="item-inner">
+                  <div class="item-title-row">
+                    <div class="item-title">Billie Jean</div>
+                  </div>
+                  <div class="item-subtitle">Michael Jackson</div>
+                </div></a></li>
+          </ul>
         </div>
       </div>
     </div>
-    <!-- Path to Framework7 Library JS-->
+
     <script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/framework7.js"></script>
-    <!-- Path to your app js-->
-    <script type="text/javascript" src="js/my-app.js"></script>
+    <script type="text/javascript" src="js/xfinity_ncta_demo.js"></script>
   </body>
 </html>
