@@ -272,6 +272,73 @@ $$(document).on('pageInit', function (e) {
         });
     }
 
+    if (page.name === 'it-scan-network') {
+
+        var blockHTML = '<div class="content-block content-block-app-welcome">' +
+                        '<div class="content-block-inner app-inner app-new-address">' +
+                        '<h1 style="padding:20px 20px 10px 0;">Devices connected to your Wireless Gateway </h1>' +
+                        '<div class="app-list-devices">' +
+                        '<div class="list-block media-list device-list">' +
+                        '<ul>' +
+                        '<li><a href="#" class="item-link item-content">' +
+                        '<div class="green-check"></div>' +
+                        '<div class="arrow"></div>' +
+                        '<div class="item-media"><img src="img/dl-laptop@2x.png" width="80"></div>' +
+                        '<div class="item-inner">' +
+                        '<div class="item-title">David’s Laptop</div>' +
+                        '<div class="item-subtitle gray">Connected</div>' +
+                        '</div></a></li>' +
+                        '<li><a href="#" class="item-link item-content">' +
+                        '<div class="red-cross"></div>' +
+                        '<div class="item-media"><img src="img/dl-print@2x.png" width="80"></div>' +
+                        '<div class="item-inner">' +
+                        '<div class="item-title">David’s Printer</div>' +
+                        '<div class="item-subtitle" style="color:#f37a03; font-style: italic;">Connection lost</div>' +
+                        '</div></a></br>' +
+                        '<a href="it_scan_printer.html" class="button button-inner button-big active success">Reconnect</a>' +
+                        '</li>' +
+                        '<li><a href="#" class="item-link item-content">' +
+                        '<div class="arrow"></div>' +
+                        '<div class="green-check"></div>' +
+                        '<div class="item-media"><img src="img/dl-phone@2x.png" width="80"></div>' +
+                        '<div class="item-inner">' +
+                        '<div class="item-title">David’s Phone</div>' +
+                        '<div class="item-subtitle gray">Connected</div>' +
+                        '</div></a></li>' +
+                        '</ul>' +
+                        '</div>' +
+                        '</div>' +
+                        '</div>' +
+                        '</div>';
+
+        setTimeout(function() {
+
+        $('.network-scanned').fadeOut('fast');
+
+            setTimeout(function() {
+                var ptrContent = $$(page.container).find('.scanning');
+                ptrContent.prepend(blockHTML);
+            },2000);
+
+        },3000);
+
+        // $('.success').on('tap',function(){
+        //     window.location.replace("it_scan_printer.html");
+        // });
+    }
+
+    if (page.name === 'it-scan-list'){
+        $('.success').on('tap',function(){
+            window.location.replace("it_scan_printer.html");
+        });
+    }
+
+    if (page.name === 'it-scan-printer') {
+        setTimeout(function() {
+            window.location.href = "it_scan_printer_success.html";
+        },2000);
+    }
+
 });
 
 // Required for demo popover
