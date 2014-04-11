@@ -3,7 +3,25 @@
         "installed": [],
         "uninstalled": []
     },
-    "config_munge": {},
-    "installed_plugins": {},
+    "config_munge": {
+        "framework": {
+            "EventKit.framework": {
+                "false": 1
+            },
+            "EventKitUI.framework": {
+                "false": 1
+            }
+        },
+        "config.xml": {
+            "/*": {
+                "<feature name=\"Calendar\"><param name=\"ios-package\" value=\"Calendar\" /></feature>": 1
+            }
+        }
+    },
+    "installed_plugins": {
+        "nl.x-services.plugins.calendar": {
+            "PACKAGE_NAME": "com.phonegap.xfinity_NCTA"
+        }
+    },
     "dependent_plugins": {}
 }

@@ -1949,3 +1949,546 @@ Terminating in response to SpringBoard's termination.
 2014-04-08 15:16:18.884 Xfinity Home[56492:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?16'
 2014-04-08 15:16:18.885 Xfinity Home[56492:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?16'
 2014-04-08 15:16:18.886 Xfinity Home[56492:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?16'
+2014-04-09 00:27:09.824 Xfinity Home[57309:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 00:27:10.556 Xfinity Home[57309:70b] Resetting plugins due to page load.
+2014-04-09 00:27:10.672 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:27:10.672 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:27:10.673 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:27:10.675 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:27:10.675 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:27:10.676 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:27:10.677 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:27:10.678 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:27:10.678 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:27:10.787 Xfinity Home[57309:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 00:27:36.672 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?20'
+2014-04-09 00:27:36.672 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?20'
+2014-04-09 00:27:36.673 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?20'
+2014-04-09 00:28:11.788 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?83'
+2014-04-09 00:28:11.789 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?83'
+2014-04-09 00:28:11.790 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?83'
+2014-04-09 00:28:15.670 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?2'
+2014-04-09 00:28:15.671 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?2'
+2014-04-09 00:28:15.672 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?2'
+2014-04-09 00:28:26.846 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?49'
+2014-04-09 00:28:26.847 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?49'
+2014-04-09 00:28:26.848 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?49'
+2014-04-09 00:28:30.762 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?91'
+2014-04-09 00:28:30.763 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?91'
+2014-04-09 00:28:30.764 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?91'
+2014-04-09 00:28:41.261 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?31'
+2014-04-09 00:28:41.262 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?31'
+2014-04-09 00:28:41.263 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?31'
+2014-04-09 00:29:11.054 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:29:11.055 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:29:11.055 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:29:11.057 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:29:11.057 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:29:11.058 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:29:11.059 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:29:11.060 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:29:11.060 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:29:18.213 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:29:18.214 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:29:18.214 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 00:29:18.215 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:29:18.216 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:29:18.216 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 00:29:18.217 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:29:18.218 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 00:29:18.218 Xfinity Home[57309:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:49:59.877 Xfinity Home[58723:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 09:50:00.428 Xfinity Home[58723:70b] Resetting plugins due to page load.
+2014-04-09 09:50:00.483 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:50:00.484 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:50:00.484 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:50:00.486 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:50:00.486 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:50:00.487 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:50:00.488 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:50:00.488 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:50:00.489 Xfinity Home[58723:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:50:00.658 Xfinity Home[58723:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 09:51:42.828 Xfinity Home[58947:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 09:51:43.063 Xfinity Home[58947:70b] Resetting plugins due to page load.
+2014-04-09 09:51:43.436 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:51:43.437 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:51:43.437 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:51:43.439 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:51:43.439 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:51:43.440 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:51:43.441 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:51:43.441 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:51:43.442 Xfinity Home[58947:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:51:43.601 Xfinity Home[58947:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 09:53:37.579 Xfinity Home[59176:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 09:53:37.801 Xfinity Home[59176:70b] Resetting plugins due to page load.
+2014-04-09 09:53:37.886 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:53:37.886 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:53:37.887 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:53:37.888 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:53:37.889 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:53:37.890 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:53:37.891 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:53:37.892 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:53:37.893 Xfinity Home[59176:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:53:38.063 Xfinity Home[59176:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 09:55:18.545 Xfinity Home[59406:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 09:55:18.772 Xfinity Home[59406:70b] Resetting plugins due to page load.
+2014-04-09 09:55:18.875 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:55:18.876 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:55:18.877 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:55:18.879 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:55:18.880 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:55:18.880 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:55:18.881 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:55:18.882 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:55:18.883 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:55:19.013 Xfinity Home[59406:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 09:56:00.232 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?58'
+2014-04-09 09:56:00.233 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?58'
+2014-04-09 09:56:00.234 Xfinity Home[59406:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?58'
+2014-04-09 09:58:43.395 Xfinity Home[59651:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 09:58:43.612 Xfinity Home[59651:70b] Resetting plugins due to page load.
+2014-04-09 09:58:43.676 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:58:43.676 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:58:43.677 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:58:43.678 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:58:43.679 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:58:43.679 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:58:43.680 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:58:43.834 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:58:43.835 Xfinity Home[59651:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:58:44.002 Xfinity Home[59651:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 09:59:52.563 Xfinity Home[59870:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 09:59:53.263 Xfinity Home[59870:70b] Resetting plugins due to page load.
+2014-04-09 09:59:53.404 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:59:53.405 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:59:53.405 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 09:59:53.406 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:59:53.407 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:59:53.407 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 09:59:53.409 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:59:53.409 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:59:53.410 Xfinity Home[59870:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 09:59:53.574 Xfinity Home[59870:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 10:01:41.016 Xfinity Home[60109:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:01:41.599 Xfinity Home[60109:70b] Resetting plugins due to page load.
+2014-04-09 10:01:41.790 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:01:41.790 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:01:41.791 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:01:41.792 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:01:41.792 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:01:41.793 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:01:41.795 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:01:41.795 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:01:41.796 Xfinity Home[60109:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:01:41.933 Xfinity Home[60109:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 10:04:28.045 Xfinity Home[60391:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:04:28.421 Xfinity Home[60391:70b] Resetting plugins due to page load.
+2014-04-09 10:04:28.510 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:04:28.511 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:04:28.512 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:04:28.513 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:04:28.513 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:04:28.554 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:04:28.555 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:04:28.556 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:04:28.556 Xfinity Home[60391:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:04:28.698 Xfinity Home[60391:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 10:10:23.613 Xfinity Home[60627:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:10:24.428 Xfinity Home[60627:70b] Resetting plugins due to page load.
+2014-04-09 10:10:24.575 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:10:24.575 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:10:24.576 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:10:24.577 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:10:24.577 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:10:24.578 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:10:24.579 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:10:24.579 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:10:24.579 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:10:24.708 Xfinity Home[60627:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 10:10:42.081 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?12'
+2014-04-09 10:10:42.082 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?12'
+2014-04-09 10:10:42.082 Xfinity Home[60627:4203] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?12'
+2014-04-09 10:46:58.683 Xfinity Home[61099:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:46:58.916 Xfinity Home[61099:70b] Resetting plugins due to page load.
+2014-04-09 10:46:59.145 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:46:59.146 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:46:59.146 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:46:59.147 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:46:59.148 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:46:59.148 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:46:59.149 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:46:59.149 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:46:59.150 Xfinity Home[61099:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:46:59.506 Xfinity Home[61099:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 10:51:00.601 Xfinity Home[61394:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:51:00.835 Xfinity Home[61394:70b] Resetting plugins due to page load.
+2014-04-09 10:51:01.104 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:51:01.105 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:51:01.105 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:51:01.107 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:51:01.107 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:51:01.108 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:51:01.109 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:51:01.109 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:51:01.110 Xfinity Home[61394:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:51:01.177 Xfinity Home[61394:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 10:53:53.934 Xfinity Home[61641:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:53:54.210 Xfinity Home[61641:70b] Resetting plugins due to page load.
+2014-04-09 10:53:54.485 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:53:54.485 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:53:54.486 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:53:54.488 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:53:54.488 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:53:54.489 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:53:54.490 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:53:54.490 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:53:54.491 Xfinity Home[61641:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:53:54.716 Xfinity Home[61641:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 10:54:21.214 Xfinity Home[61837:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:54:21.441 Xfinity Home[61837:70b] Resetting plugins due to page load.
+2014-04-09 10:54:21.496 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:54:21.497 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:54:21.497 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:54:21.498 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:54:21.499 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:54:21.499 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:54:21.500 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:54:21.501 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:54:21.501 Xfinity Home[61837:3f03] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:54:21.547 Xfinity Home[61837:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 10:56:20.699 Xfinity Home[62064:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:56:20.917 Xfinity Home[62064:70b] Resetting plugins due to page load.
+2014-04-09 10:56:21.223 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:56:21.224 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:56:21.224 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:56:21.225 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:56:21.226 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:56:21.226 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:56:21.227 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:56:21.228 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:56:21.228 Xfinity Home[62064:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:56:21.305 Xfinity Home[62064:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 10:57:54.128 Xfinity Home[62305:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 10:57:54.308 Xfinity Home[62305:70b] Resetting plugins due to page load.
+2014-04-09 10:57:54.408 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:57:54.409 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:57:54.409 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 10:57:54.410 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:57:54.411 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:57:54.411 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 10:57:54.412 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:57:54.412 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:57:54.413 Xfinity Home[62305:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 10:57:54.446 Xfinity Home[62305:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 11:08:21.004 Xfinity Home[62590:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 11:08:21.505 Xfinity Home[62590:70b] Resetting plugins due to page load.
+2014-04-09 11:08:21.618 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:08:21.618 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:08:21.619 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:08:21.620 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:08:21.621 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:08:21.621 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:08:21.623 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:08:21.623 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:08:21.624 Xfinity Home[62590:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:08:21.691 Xfinity Home[62590:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 11:11:43.063 Xfinity Home[62826:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 11:11:43.311 Xfinity Home[62826:70b] Resetting plugins due to page load.
+2014-04-09 11:11:43.758 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:11:43.759 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:11:43.760 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:11:43.761 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:11:43.761 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:11:43.762 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:11:43.763 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:11:43.763 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:11:43.764 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:11:44.045 Xfinity Home[62826:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 11:14:37.398 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?48'
+2014-04-09 11:14:37.429 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?48'
+2014-04-09 11:14:37.430 Xfinity Home[62826:4003] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?48'
+Terminating in response to SpringBoard's termination.
+2014-04-09 11:23:33.188 Xfinity Home[63136:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 11:23:33.350 Xfinity Home[63136:70b] Resetting plugins due to page load.
+2014-04-09 11:23:33.500 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:23:33.501 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:23:33.501 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?13'
+2014-04-09 11:23:33.503 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:23:33.504 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:23:33.504 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?23'
+2014-04-09 11:23:33.506 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:23:33.507 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:23:33.507 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?33'
+2014-04-09 11:23:33.918 Xfinity Home[63136:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 11:25:23.162 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?17'
+2014-04-09 11:25:23.198 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?17'
+2014-04-09 11:25:23.199 Xfinity Home[63136:4103] ERROR whitelist rejection: url='http://hhhhold.com/88/d/jpg?17'
+2014-04-09 11:45:38.024 Xfinity Home[63490:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 11:45:38.234 Xfinity Home[63490:70b] Resetting plugins due to page load.
+2014-04-09 11:45:38.838 Xfinity Home[63490:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 11:50:15.585 Xfinity Home[63794:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 11:50:15.902 Xfinity Home[63794:70b] Resetting plugins due to page load.
+2014-04-09 11:50:16.026 Xfinity Home[63794:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 11:53:01.238 Xfinity Home[64040:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 11:53:01.352 Xfinity Home[64040:70b] Resetting plugins due to page load.
+2014-04-09 11:53:01.441 Xfinity Home[64040:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 12:21:20.562 Xfinity Home[64610:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 12:21:20.979 Xfinity Home[64610:70b] Resetting plugins due to page load.
+2014-04-09 12:21:21.225 Xfinity Home[64610:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 12:23:57.990 Xfinity Home[64843:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 12:23:58.465 Xfinity Home[64843:70b] Resetting plugins due to page load.
+2014-04-09 12:23:58.731 Xfinity Home[64843:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 12:25:12.908 Xfinity Home[65077:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 12:25:13.084 Xfinity Home[65077:70b] Resetting plugins due to page load.
+2014-04-09 12:25:13.472 Xfinity Home[65077:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 12:27:37.838 Xfinity Home[65365:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 12:27:38.042 Xfinity Home[65365:70b] Resetting plugins due to page load.
+2014-04-09 12:27:38.664 Xfinity Home[65365:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 12:29:03.024 Xfinity Home[65604:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 12:29:03.210 Xfinity Home[65604:70b] Resetting plugins due to page load.
+2014-04-09 12:29:03.650 Xfinity Home[65604:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 12:36:50.092 Xfinity Home[65868:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 12:36:50.300 Xfinity Home[65868:70b] Resetting plugins due to page load.
+2014-04-09 12:36:50.808 Xfinity Home[65868:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 15:29:49.432 Xfinity Home[66841:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 15:29:49.886 Xfinity Home[66841:70b] Resetting plugins due to page load.
+2014-04-09 15:29:50.705 Xfinity Home[66841:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 15:34:47.384 Xfinity Home[67102:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 15:34:48.163 Xfinity Home[67102:70b] Resetting plugins due to page load.
+2014-04-09 15:34:48.399 Xfinity Home[67102:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 15:37:06.609 Xfinity Home[67341:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 15:37:06.966 Xfinity Home[67341:70b] Resetting plugins due to page load.
+2014-04-09 15:37:07.751 Xfinity Home[67341:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 15:43:40.041 Xfinity Home[67661:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 15:43:40.334 Xfinity Home[67661:70b] Resetting plugins due to page load.
+2014-04-09 15:43:40.618 Xfinity Home[67661:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 15:50:03.230 Xfinity Home[67928:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 15:50:03.729 Xfinity Home[67928:70b] Resetting plugins due to page load.
+2014-04-09 15:50:04.152 Xfinity Home[67928:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:28:31.882 Xfinity Home[68413:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:28:32.130 Xfinity Home[68413:70b] Resetting plugins due to page load.
+2014-04-09 16:28:32.409 Xfinity Home[68413:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:36:43.764 Xfinity Home[68671:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:36:44.208 Xfinity Home[68671:70b] Resetting plugins due to page load.
+2014-04-09 16:36:44.471 Xfinity Home[68671:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:38:57.398 Xfinity Home[68968:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:38:57.643 Xfinity Home[68968:70b] Resetting plugins due to page load.
+2014-04-09 16:38:57.994 Xfinity Home[68968:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:40:51.817 Xfinity Home[69217:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:40:52.047 Xfinity Home[69217:70b] Resetting plugins due to page load.
+2014-04-09 16:40:52.251 Xfinity Home[69217:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:43:59.412 Xfinity Home[69461:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:43:59.619 Xfinity Home[69461:70b] Resetting plugins due to page load.
+2014-04-09 16:43:59.840 Xfinity Home[69461:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:46:04.021 Xfinity Home[69702:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:46:04.236 Xfinity Home[69702:70b] Resetting plugins due to page load.
+2014-04-09 16:46:04.434 Xfinity Home[69702:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 16:48:07.471 Xfinity Home[69944:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:48:07.965 Xfinity Home[69944:70b] Resetting plugins due to page load.
+2014-04-09 16:48:08.199 Xfinity Home[69944:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:49:44.733 Xfinity Home[70190:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:49:44.973 Xfinity Home[70190:70b] Resetting plugins due to page load.
+2014-04-09 16:49:45.660 Xfinity Home[70190:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:51:15.696 Xfinity Home[70432:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:51:15.922 Xfinity Home[70432:70b] Resetting plugins due to page load.
+2014-04-09 16:51:16.133 Xfinity Home[70432:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:52:21.698 Xfinity Home[70665:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:52:22.021 Xfinity Home[70665:70b] Resetting plugins due to page load.
+2014-04-09 16:52:22.302 Xfinity Home[70665:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:53:36.815 Xfinity Home[70952:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:53:37.099 Xfinity Home[70952:70b] Resetting plugins due to page load.
+2014-04-09 16:53:37.496 Xfinity Home[70952:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 16:55:38.314 Xfinity Home[71191:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:55:38.691 Xfinity Home[71191:70b] Resetting plugins due to page load.
+2014-04-09 16:55:39.100 Xfinity Home[71191:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 16:58:42.028 Xfinity Home[71435:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 16:58:42.261 Xfinity Home[71435:70b] Resetting plugins due to page load.
+2014-04-09 16:58:42.583 Xfinity Home[71435:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:00:11.814 Xfinity Home[71680:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:00:11.997 Xfinity Home[71680:70b] Resetting plugins due to page load.
+2014-04-09 17:00:12.185 Xfinity Home[71680:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 17:02:44.801 Xfinity Home[71925:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:02:44.955 Xfinity Home[71925:70b] Resetting plugins due to page load.
+2014-04-09 17:02:45.147 Xfinity Home[71925:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 17:04:26.319 Xfinity Home[72163:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:04:26.542 Xfinity Home[72163:70b] Resetting plugins due to page load.
+2014-04-09 17:04:26.778 Xfinity Home[72163:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:05:51.900 Xfinity Home[72448:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:05:52.124 Xfinity Home[72448:70b] Resetting plugins due to page load.
+2014-04-09 17:05:52.313 Xfinity Home[72448:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:27:18.704 Xfinity Home[72737:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:27:18.971 Xfinity Home[72737:70b] Resetting plugins due to page load.
+2014-04-09 17:27:19.413 Xfinity Home[72737:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:30:44.896 Xfinity Home[72997:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:30:45.139 Xfinity Home[72997:70b] Resetting plugins due to page load.
+2014-04-09 17:30:45.512 Xfinity Home[72997:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 17:38:49.024 Xfinity Home[73319:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:38:49.870 Xfinity Home[73319:70b] Resetting plugins due to page load.
+2014-04-09 17:38:50.508 Xfinity Home[73319:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:46:14.116 Xfinity Home[73575:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:46:14.480 Xfinity Home[73575:70b] Resetting plugins due to page load.
+2014-04-09 17:46:15.068 Xfinity Home[73575:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:49:16.451 Xfinity Home[73878:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:49:16.657 Xfinity Home[73878:70b] Resetting plugins due to page load.
+2014-04-09 17:49:16.878 Xfinity Home[73878:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:51:59.294 Xfinity Home[74122:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:51:59.635 Xfinity Home[74122:70b] Resetting plugins due to page load.
+2014-04-09 17:52:00.205 Xfinity Home[74122:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 17:53:48.343 Xfinity Home[74365:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 17:53:48.556 Xfinity Home[74365:70b] Resetting plugins due to page load.
+2014-04-09 17:53:48.768 Xfinity Home[74365:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 18:39:05.764 Xfinity Home[74714:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 18:39:06.310 Xfinity Home[74714:70b] Resetting plugins due to page load.
+2014-04-09 18:39:06.540 Xfinity Home[74714:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 18:42:15.139 Xfinity Home[74962:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 18:42:15.339 Xfinity Home[74962:70b] Resetting plugins due to page load.
+2014-04-09 18:42:15.551 Xfinity Home[74962:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 18:46:31.687 Xfinity Home[75932:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 18:46:32.272 Xfinity Home[75932:70b] Resetting plugins due to page load.
+2014-04-09 18:46:32.680 Xfinity Home[75932:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 18:55:42.488 Xfinity Home[76255:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 18:55:42.675 Xfinity Home[76255:70b] Resetting plugins due to page load.
+2014-04-09 18:55:42.923 Xfinity Home[76255:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 18:58:53.173 Xfinity Home[76499:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 18:58:53.427 Xfinity Home[76499:70b] Resetting plugins due to page load.
+2014-04-09 18:58:53.846 Xfinity Home[76499:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 19:04:30.928 Xfinity Home[76762:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 19:04:31.131 Xfinity Home[76762:70b] Resetting plugins due to page load.
+2014-04-09 19:04:31.341 Xfinity Home[76762:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 19:08:43.718 Xfinity Home[77062:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 19:08:43.985 Xfinity Home[77062:70b] Resetting plugins due to page load.
+2014-04-09 19:08:45.171 Xfinity Home[77062:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 19:14:41.163 Xfinity Home[77319:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 19:14:41.476 Xfinity Home[77319:70b] Resetting plugins due to page load.
+2014-04-09 19:14:42.969 Xfinity Home[77319:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 19:16:39.933 Xfinity Home[77557:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 19:16:40.171 Xfinity Home[77557:70b] Resetting plugins due to page load.
+2014-04-09 19:16:40.562 Xfinity Home[77557:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 21:07:43.382 Xfinity Home[77970:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 21:07:43.829 Xfinity Home[77970:70b] Resetting plugins due to page load.
+2014-04-09 21:07:44.494 Xfinity Home[77970:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 21:55:15.756 Xfinity Home[78317:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 21:55:16.140 Xfinity Home[78317:70b] Resetting plugins due to page load.
+2014-04-09 21:55:16.369 Xfinity Home[78317:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 22:00:15.026 Xfinity Home[79007:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 22:00:15.270 Xfinity Home[79007:70b] Resetting plugins due to page load.
+2014-04-09 22:00:15.485 Xfinity Home[79007:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 22:06:24.185 Xfinity Home[79461:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 22:06:24.658 Xfinity Home[79461:70b] Resetting plugins due to page load.
+2014-04-09 22:06:24.887 Xfinity Home[79461:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 23:19:00.261 Xfinity Home[79970:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:19:00.571 Xfinity Home[79970:70b] Resetting plugins due to page load.
+2014-04-09 23:19:01.516 Xfinity Home[79970:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 23:42:54.984 Xfinity Home[80293:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:42:56.191 Xfinity Home[80293:70b] Resetting plugins due to page load.
+2014-04-09 23:42:56.593 Xfinity Home[80293:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-09 23:51:13.097 Xfinity Home[80609:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:51:13.450 Xfinity Home[80609:70b] Resetting plugins due to page load.
+2014-04-09 23:51:14.165 Xfinity Home[80609:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 00:48:55.807 Xfinity Home[81333:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:48:55.996 Xfinity Home[81333:70b] Resetting plugins due to page load.
+2014-04-10 00:48:56.978 Xfinity Home[81333:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 02:16:26.849 Xfinity Home[82223:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 02:16:27.046 Xfinity Home[82223:70b] Resetting plugins due to page load.
+2014-04-10 02:16:27.382 Xfinity Home[82223:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 02:25:05.099 Xfinity Home[82502:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 02:25:05.314 Xfinity Home[82502:70b] Resetting plugins due to page load.
+2014-04-10 02:25:05.614 Xfinity Home[82502:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:18:03.506 Xfinity Home[83421:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:18:04.027 Xfinity Home[83421:70b] Resetting plugins due to page load.
+2014-04-10 09:18:04.153 Xfinity Home[83421:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:24:29.838 Xfinity Home[83686:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:24:30.321 Xfinity Home[83686:70b] Resetting plugins due to page load.
+2014-04-10 09:24:31.795 Xfinity Home[83686:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:28:02.304 Xfinity Home[83991:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:28:02.479 Xfinity Home[83991:70b] Resetting plugins due to page load.
+2014-04-10 09:28:02.675 Xfinity Home[83991:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:33:30.889 Xfinity Home[84248:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:33:31.137 Xfinity Home[84248:70b] Resetting plugins due to page load.
+2014-04-10 09:33:31.750 Xfinity Home[84248:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:35:38.919 Xfinity Home[84503:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:35:39.255 Xfinity Home[84503:70b] Resetting plugins due to page load.
+2014-04-10 09:35:39.381 Xfinity Home[84503:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:41:17.697 Xfinity Home[84817:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:41:17.888 Xfinity Home[84817:70b] Resetting plugins due to page load.
+2014-04-10 09:41:18.061 Xfinity Home[84817:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 09:45:58.077 Xfinity Home[85085:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:45:58.606 Xfinity Home[85085:70b] Resetting plugins due to page load.
+2014-04-10 09:45:58.790 Xfinity Home[85085:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:51:22.107 Xfinity Home[85351:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:51:22.338 Xfinity Home[85351:70b] Resetting plugins due to page load.
+2014-04-10 09:51:22.509 Xfinity Home[85351:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 09:56:43.767 Xfinity Home[85653:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 09:56:44.059 Xfinity Home[85653:70b] Resetting plugins due to page load.
+2014-04-10 09:56:44.504 Xfinity Home[85653:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:00:32.347 Xfinity Home[85922:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:00:32.591 Xfinity Home[85922:70b] Resetting plugins due to page load.
+2014-04-10 10:00:32.763 Xfinity Home[85922:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:06:35.859 Xfinity Home[86181:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:06:36.277 Xfinity Home[86181:70b] Resetting plugins due to page load.
+2014-04-10 10:06:36.684 Xfinity Home[86181:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:14:45.380 Xfinity Home[86515:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:14:45.746 Xfinity Home[86515:70b] Resetting plugins due to page load.
+2014-04-10 10:14:46.067 Xfinity Home[86515:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:20:28.047 Xfinity Home[86784:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:20:28.387 Xfinity Home[86784:70b] Resetting plugins due to page load.
+2014-04-10 10:20:28.966 Xfinity Home[86784:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:23:27.998 Xfinity Home[87044:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:23:28.212 Xfinity Home[87044:70b] Resetting plugins due to page load.
+2014-04-10 10:23:28.661 Xfinity Home[87044:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:26:47.312 Xfinity Home[87353:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:26:47.535 Xfinity Home[87353:70b] Resetting plugins due to page load.
+2014-04-10 10:26:47.703 Xfinity Home[87353:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:29:23.365 Xfinity Home[87603:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:29:23.604 Xfinity Home[87603:70b] Resetting plugins due to page load.
+2014-04-10 10:29:23.915 Xfinity Home[87603:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:52:49.234 Xfinity Home[88065:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:52:49.803 Xfinity Home[88065:70b] Resetting plugins due to page load.
+2014-04-10 10:52:50.281 Xfinity Home[88065:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 10:54:42.030 Xfinity Home[88325:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:54:42.237 Xfinity Home[88325:70b] Resetting plugins due to page load.
+2014-04-10 10:54:42.386 Xfinity Home[88325:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 10:58:48.353 Xfinity Home[88768:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:58:48.558 Xfinity Home[88768:70b] Resetting plugins due to page load.
+2014-04-10 10:58:49.226 Xfinity Home[88768:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 11:01:56.996 Xfinity Home[89040:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 11:01:57.297 Xfinity Home[89040:70b] Resetting plugins due to page load.
+2014-04-10 11:01:57.500 Xfinity Home[89040:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 11:04:39.031 Xfinity Home[89493:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 11:04:39.633 Xfinity Home[89493:70b] Resetting plugins due to page load.
+2014-04-10 11:04:39.801 Xfinity Home[89493:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 12:22:09.432 Xfinity Home[90305:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 12:22:09.851 Xfinity Home[90305:70b] Resetting plugins due to page load.
+2014-04-10 12:22:10.056 Xfinity Home[90305:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 12:23:17.481 Xfinity Home[90739:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 12:23:18.042 Xfinity Home[90739:70b] Resetting plugins due to page load.
+2014-04-10 12:23:18.250 Xfinity Home[90739:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 12:27:22.619 Xfinity Home[91004:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 12:27:23.385 Xfinity Home[91004:70b] Resetting plugins due to page load.
+2014-04-10 12:27:24.293 Xfinity Home[91004:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html
+2014-04-10 12:34:47.833 Xfinity Home[91338:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 12:34:48.444 Xfinity Home[91338:70b] Resetting plugins due to page load.
+2014-04-10 12:34:48.647 Xfinity Home[91338:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5FF1CDDF-F19D-45FE-AAC0-0EB4041BC828/Xfinity%20Home.app/www/index.html

@@ -172,19 +172,103 @@ $$(document).on('pageInit', function (e) {
                 var picURL = 'http://hhhhold.com/88/d/jpg?' + Math.round(Math.random() * 100);
                 var song = songs[Math.floor(Math.random() * songs.length)];
                 var author = authors[Math.floor(Math.random() * authors.length)];
-                var linkHTML = '<li class="item-content">' +
-                                    '<div class="item-media"><img src="' + picURL + '" width="44"/></div>' +
-                                    '<div class="item-inner">' +
-                                        '<div class="item-title-row">' +
-                                            '<div class="item-title">' + song + '</div>' +
-                                        '</div>' +
-                                        '<div class="item-subtitle">' + author + '</div>' +
-                                    '</div>' +
-                                '</li>';
+                var linkHTML = '<li class="fb-post-frame">' +
+                            ' <div class="item-content list-block-fb">' +
+                            ' <div class="item-media"><img src="img/fb-icon6_@2x.png" width="44"/></div>' +
+                            ' <div class="item-inner">' +
+                            ' <div class="item-title-row">' +
+                            ' <div class="item-title">Comcast Xfinity</div>' +
+                            ' </div>' +
+                            ' <div class="item-subtitle gray">Sunday at 10:56 AM</div>' +
+                            ' </div>' +
+                            ' </div>' +
+                            ' <article>' +
+                            ' <span>Xfinity X1 TV and blazing fast internet is avialable at your new home!</span></br>' +
+                            ' <a href="hello.html">Learn about transfering service</a>' +
+                            ' </article>' +
+                            ' <div class="item-content2">' +
+                            ' <div class="item-inner">' +
+                            ' <ul class="fb-options">' +
+                            ' <li class="like">Like</li>' +
+                            ' <li class="comment">Comment</li>' +
+                            ' <li class="share">Share</li>' +
+                            ' </ul> ' +
+                            ' </div>' +
+                            ' </div>' +
+                            ' </li>';
                 ptrContent.find('ul.new-post').prepend(linkHTML);
                 // When loading done, we need to "close" it
                 myApp.pullToRefreshDone();
             }, 2000);
+        });
+    }
+
+    // Date picker demo 
+    if (page.name === 'disconnect-date'){
+        // var datePicker = "date PICKER HERE";
+
+        // var ptrContent = $$(page.container).find('.nativedatepicker-wrapper');
+
+        // ptrContent.prepend(datePicker);
+
+        // prep some variables
+          // var startDate = new Date(2014,2,15,18,30,0,0,0); // beware: month 0 = january, 11 = december
+          // var endDate = new Date(2014,2,15,19,30,0,0,0);
+          // var title = "My nice event";
+          // var location = "Home";
+          // var notes = "Some notes about this event.";
+          // var success = function(message) { alert("Success: " + JSON.stringify(message)); };
+          // var error = function(message) { alert("Error: " + message); };
+
+          // // create a calendar (iOS only for now)
+          // window.plugins.calendar.createCalendar(calendarName,success,error);
+
+          // // delete a calendar (iOS only for now)
+          // window.plugins.calendar.deleteCalendar(calendarName,success,error);
+
+          // // create an event silently (on Android < 4 an interactive dialog is shown)
+          // window.plugins.calendar.createEvent(title,location,notes,startDate,endDate,success,error);
+
+          // // create an event silently (on Android < 4 an interactive dialog is shown which doesn't use this options) with options.
+          // // The options support one option for now, but I will add more in the future:
+          // var calOptions = window.plugins.calendar.getCalendarOptions(); // grab the defaults
+          // calOptions.firstReminderMinutes = 120; // default is 60, pass in null for no reminder (alarm)
+          // window.plugins.calendar.createEventWithOptions(title,location,notes,startDate,endDate,calOptions,success,error);
+
+          // // create an event interactively (only supported on Android)
+          // window.plugins.calendar.createEventInteractively(title,location,notes,startDate,endDate,success,error);
+
+          // // create an event in a named calendar (iOS only for now)
+          // window.plugins.calendar.createEventInNamedCalendar(title,location,notes,startDate,endDate,calendarName,success,error);
+
+          // // find events
+          // window.plugins.calendar.findEvent(title,location,notes,startDate,endDate,success,error);
+
+          // // list all events in a date range (only supported on Android for now)
+          // window.plugins.calendar.listEventsInRange(startDate,endDate,success,error);
+
+          // // list all calendar names - returns this JS Object to the success callback: [{"id":"1", "name":"first"}, ..]
+          // window.plugins.calendar.listCalendars(success,error);
+
+          // // find all events in a named calendar (iOS only for now)
+          // window.plugins.calendar.findAllEventsInNamedCalendar(calendarName,success,error);
+
+          // // change an event (iOS only for now)
+          // var newTitle = "New title!";
+          // window.plugins.calendar.modifyEvent(title,location,notes,startDate,endDate,newTitle,location,notes,startDate,endDate,success,error);
+
+          // // delete an event (you can pass nulls for irrelevant parameters, note that on Android `notes` is ignored)
+          // window.plugins.calendar.deleteEvent(newTitle,location,notes,startDate,endDate,success,error);
+
+    }
+
+    if (page.name === 'new-install'){
+        $(function(){
+          $.datepicker.setDefaults(
+            $.extend($.datepicker.regional[''])
+          );
+          $('#datepicker').datepicker();
+          $('#datepicker2').datepicker();
         });
     }
 
