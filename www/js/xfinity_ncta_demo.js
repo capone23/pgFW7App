@@ -314,21 +314,19 @@ $$(document).on('pageInit', function (e) {
         setTimeout(function() {
 
         $('.network-scanned').fadeOut('fast');
+        $('.scanning').removeClass('itUI');
 
             setTimeout(function() {
+                $('.scanning').addClass('lightUI');
                 var ptrContent = $$(page.container).find('.scanning');
                 ptrContent.prepend(blockHTML);
             },2000);
 
         },3000);
-
-        // $('.success').on('tap',function(){
-        //     window.location.replace("it_scan_printer.html");
-        // });
     }
 
     if (page.name === 'it-scan-list'){
-        $('.success').on('tap',function(){
+        $$('.success').on('tap',function(){
             window.location.replace("it_scan_printer.html");
         });
     }
