@@ -203,63 +203,44 @@ $$(document).on('pageInit', function (e) {
         });
     }
 
-    // Date picker demo 
+
     if (page.name === 'disconnect-date'){
-        // var datePicker = "date PICKER HERE";
 
-        // var ptrContent = $$(page.container).find('.nativedatepicker-wrapper');
+            window.onload = function () {
+                /* Grab all elements with a placeholder attribute */
+                var element = document.querySelectorAll('[placeholder]');
 
-        // ptrContent.prepend(datePicker);
+                /* Loop through each found elements */
+                for (var i in element) {
+                    /* If the element is a DOMElement and has the nodeName "INPUT" */
+                    if (element[i].nodeType == 1 && element[i].nodeName == "INPUT") {
 
-        // prep some variables
-          // var startDate = new Date(2014,2,15,18,30,0,0,0); // beware: month 0 = january, 11 = december
-          // var endDate = new Date(2014,2,15,19,30,0,0,0);
-          // var title = "My nice event";
-          // var location = "Home";
-          // var notes = "Some notes about this event.";
-          // var success = function(message) { alert("Success: " + JSON.stringify(message)); };
-          // var error = function(message) { alert("Error: " + message); };
+                        /* We change the value of the element to its placeholder attr value */
+                        element[i].value = element[i].getAttribute('placeholder');
+                        /* We change its color to a light gray */
+                        element[i].style.color = "#777";
 
-          // // create a calendar (iOS only for now)
-          // window.plugins.calendar.createCalendar(calendarName,success,error);
+                        /* When the input is selected/clicked on */
+                        element[i].onfocus = function (event) {
+                            /* If the value within it is the placeholder, we clear it */
+                            if (this.value == this.getAttribute('placeholder')) {
+                                this.value = "";
+                                /* Setting default text color */
+                                this.style.color = "#000";
+                            };
+                        };
 
-          // // delete a calendar (iOS only for now)
-          // window.plugins.calendar.deleteCalendar(calendarName,success,error);
-
-          // // create an event silently (on Android < 4 an interactive dialog is shown)
-          // window.plugins.calendar.createEvent(title,location,notes,startDate,endDate,success,error);
-
-          // // create an event silently (on Android < 4 an interactive dialog is shown which doesn't use this options) with options.
-          // // The options support one option for now, but I will add more in the future:
-          // var calOptions = window.plugins.calendar.getCalendarOptions(); // grab the defaults
-          // calOptions.firstReminderMinutes = 120; // default is 60, pass in null for no reminder (alarm)
-          // window.plugins.calendar.createEventWithOptions(title,location,notes,startDate,endDate,calOptions,success,error);
-
-          // // create an event interactively (only supported on Android)
-          // window.plugins.calendar.createEventInteractively(title,location,notes,startDate,endDate,success,error);
-
-          // // create an event in a named calendar (iOS only for now)
-          // window.plugins.calendar.createEventInNamedCalendar(title,location,notes,startDate,endDate,calendarName,success,error);
-
-          // // find events
-          // window.plugins.calendar.findEvent(title,location,notes,startDate,endDate,success,error);
-
-          // // list all events in a date range (only supported on Android for now)
-          // window.plugins.calendar.listEventsInRange(startDate,endDate,success,error);
-
-          // // list all calendar names - returns this JS Object to the success callback: [{"id":"1", "name":"first"}, ..]
-          // window.plugins.calendar.listCalendars(success,error);
-
-          // // find all events in a named calendar (iOS only for now)
-          // window.plugins.calendar.findAllEventsInNamedCalendar(calendarName,success,error);
-
-          // // change an event (iOS only for now)
-          // var newTitle = "New title!";
-          // window.plugins.calendar.modifyEvent(title,location,notes,startDate,endDate,newTitle,location,notes,startDate,endDate,success,error);
-
-          // // delete an event (you can pass nulls for irrelevant parameters, note that on Android `notes` is ignored)
-          // window.plugins.calendar.deleteEvent(newTitle,location,notes,startDate,endDate,success,error);
-
+                        /* We the input is left */
+                        element[i].onblur = function (event) {
+                            /* If the field is empty, we set its value to the placeholder */
+                            if (this.value == "") {
+                                this.value = this.getAttribute('placeholder');
+                                this.style.color = "#777";
+                            }
+                        };
+                    }
+                }
+            }
     }
 
     if (page.name === 'new-install'){
@@ -305,22 +286,20 @@ $$(document).on('pageInit', function (e) {
                         '<div class="item-title">David’s Phone</div>' +
                         '<div class="item-subtitle gray">Connected</div>' +
                         '</div></a></li>' +
-                        '</ul>' +
+                        '</ul>'  +
                         '</div>' +
                         '</div>' +
                         '</div>' +
                         '</div>';
 
         setTimeout(function() {
-
         $('.network-scanned').fadeOut('fast');
         $('.scanning').removeClass('itUI');
-
             setTimeout(function() {
                 $('.scanning').addClass('lightUI');
                 var ptrContent = $$(page.container).find('.scanning');
                 ptrContent.prepend(blockHTML);
-            },2000);
+            },1000);
 
         },3000);
     }
@@ -332,9 +311,38 @@ $$(document).on('pageInit', function (e) {
     }
 
     if (page.name === 'it-scan-printer') {
+
+        var successBlock = '<div class="content-block-inner app-inner scann-inner">' +
+                           ' <h1>Success!</h1>' +
+                           ' <div class="gray">Your Canon SB-2100 is now connected</div></br>' +
+                           ' <div class="print_profile_success"></div></br>' +
+                           ' <a href="index.html" class="button button-big active">Done</a>' +
+                           ' </div>';
+
         setTimeout(function() {
-            window.location.href = "it_scan_printer_success.html";
-        },2000);
+                $('.list-success').fadeOut('fast');
+            setTimeout(function() {
+                var ptrContent = $$(page.container).find('.scann-list');
+                ptrContent.prepend(successBlock);
+            },1000);
+
+        },3000);
+    }
+
+    if (page.name === 'transfer-service'){
+
+        setTimeout( function() {
+           $('.pinWrap').animate({
+                marginTop : 92
+           },300, "swing");
+        },1000);
+
+    }
+
+    if (page.name === 'install-window'){
+        $('.active').on('tap',function(){
+            $('.l1').toggleClass('active-l1');
+        });
     }
 
 });

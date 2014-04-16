@@ -1654,8 +1654,9 @@
                         else input[0].checked = true;
                     }
                     if (input.attr('type') === 'radio') {
-                        clicked.find('input')[0].checked = true;
+                        clicked.find('input')[0].checked = true
                     }
+
                     input.trigger('change');
                     return;
                 }
