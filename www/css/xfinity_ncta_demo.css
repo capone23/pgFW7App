@@ -611,12 +611,13 @@ background-repeat: no-repeat;
 
 .print_profile_success{
 	background: url(../img/print_profile_success@2x.png);
-		width: 250px;
+	width: 250px;
 	height: 290px;
 	background-repeat: no-repeat;
 	margin: 0px auto;
 	background-size: 250px;
 	background-position: 0px 10px;
+	display: none;
 }
 
 
@@ -978,11 +979,14 @@ background: #d3d6db;
 	background-position: 0px 2px;
 }
 
-
 /*-- Framework7 edits --*/
 
+.navbar .right {
+position: absolute;
+right: 0;
+z-index: 30000;
+}
 
-.navbar .right,
 .navbar .left,
 i.icon.icon-bars-blue{
 	display: none;

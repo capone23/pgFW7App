@@ -294,10 +294,10 @@ $$(document).on('pageInit', function (e) {
 
         setTimeout(function() {
         $('.network-scanned').fadeOut('fast');
-        $('.scanning').removeClass('itUI');
             setTimeout(function() {
-                $('.scanning').addClass('lightUI');
                 var ptrContent = $$(page.container).find('.scanning');
+                $('.scanning').addClass('lightUI');
+                $('.scanning').removeClass('itUI');
                 ptrContent.prepend(blockHTML);
             },1000);
 
@@ -324,6 +324,7 @@ $$(document).on('pageInit', function (e) {
             setTimeout(function() {
                 var ptrContent = $$(page.container).find('.scann-list');
                 ptrContent.prepend(successBlock);
+                $('.print_profile_success').fadeIn('slow');
             },1000);
 
         },3000);
