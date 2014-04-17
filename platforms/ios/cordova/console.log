@@ -2572,3 +2572,12 @@ Terminating in response to SpringBoard's termination.
 2014-04-17 00:24:51.667 Xfinity Home[5577:70b] Multi-tasking -> Device: YES, App: YES
 2014-04-17 00:24:51.902 Xfinity Home[5577:70b] Resetting plugins due to page load.
 2014-04-17 00:24:52.150 Xfinity Home[5577:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D8BB55F-0CC4-4A7B-81D6-B76B780102F8/Xfinity%20Home.app/www/index.html
+2014-04-17 00:31:50.338 Xfinity Home[5884:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-17 00:31:50.594 Xfinity Home[5884:70b] Resetting plugins due to page load.
+2014-04-17 00:31:51.199 Xfinity Home[5884:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D8BB55F-0CC4-4A7B-81D6-B76B780102F8/Xfinity%20Home.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-17 01:22:30.680 Xfinity Home[7586:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-17 01:22:31.431 Xfinity Home[7586:70b] [CDVTimer][statusbar] 641.834021ms
+2014-04-17 01:22:31.431 Xfinity Home[7586:70b] [CDVTimer][TotalPluginStartup] 642.322958ms
+2014-04-17 01:22:31.578 Xfinity Home[7586:70b] Resetting plugins due to page load.
+2014-04-17 01:22:31.799 Xfinity Home[7586:70b] Finished load of: file:///Users/Vlad/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D8BB55F-0CC4-4A7B-81D6-B76B780102F8/Xfinity%20Home.app/www/index.html

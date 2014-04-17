@@ -12,15 +12,19 @@
         Comcast moving buddy.
     </description>
 
-    <author href="http://medialabsus.com" email="support@medialabsus.com">
+<!--     <author href="http://medialabsus.com" email="support@medialabsus.com">
         Comcast Team
     </author>
-
+ -->
     <!--
         Enable individual API permissions here.
         The "device" permission is required for the 'deviceready' event.
     -->
     <feature name="http://api.phonegap.com/1.0/device" />
+
+    <feature name="StatusBar">
+            <param name="ios-package" value="CDVStatusBar" onload="true" />
+    </feature>
 
     <!--
         If you do not want any permissions to be added to your app, add the
@@ -79,6 +83,8 @@
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
+
+    <gap:plugin name="com.phonegap.plugin.statusbar" />
 
     <!--
         Define access to external domains.
