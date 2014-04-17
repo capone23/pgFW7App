@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B5F7300000000000003B4
+t1396399987
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B5F7E000000000000019E
+t1396399998
+s414
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000533ED9830000000000000516
+t1396627843
+s1302
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000533ED9830000000000000CDD
+t1396627843
+s3293
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000533ED98300000000000008BA
+t1396627843
+s2234
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000533ED98300000000000004B5
+t1396627843
+s1205
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000533ED9830000000000001491
+t1396627843
+s5265
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000533ED9830000000000000503
+t1396627843
+s1283
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000533ED9830000000000001EB7
+t1396627843
+s7863
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000533ED98300000000000004CB
+t1396627843
+s1227
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000533ED9830000000000000EB2
+t1396627843
+s3762
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000533ED9830000000000000401
+t1396627843
+s1025
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000533ED98300000000000007E6
+t1396627843
+s2022
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000533ED9830000000000000DDE
+t1396627843
+s3550
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000533ED98300000000000003DA
+t1396627843
+s986
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000533ED98300000000000009A1
+t1396627843
+s2465
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000533ED98300000000000006CF
+t1396627843
+s1743
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000533ED9830000000000004C7E
+t1396627843
+s19582
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000533ED9830000000000000892
+t1396627843
+s2194
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000533ED98300000000000016AE
+t1396627843
+s5806
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000533ED9830000000000000C13
+t1396627843
+s3091
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000533ED9830000000000001B29
+t1396627843
+s6953
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000533ED9830000000000000408
+t1396627843
+s1032
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000533ED98300000000000003E6
+t1396627843
+s998
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m
+c00000000533ED98300000000000006B6
+t1396627843
+s1718
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000533ED983000000000000038D
+t1396627843
+s909
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000533ED9830000000000000AA2
+t1396627843
+s2722
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000533ED983000000000000041C
+t1396627843
+s1052
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000533ED983000000000000259E
+t1396627843
+s9630
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000533ED9830000000000000421
+t1396627843
+s1057
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000533ED983000000000000133E
+t1396627843
+s4926
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000533ED9830000000000000ACC
+t1396627843
+s2764
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000533ED9830000000000008FB3
+t1396627843
+s36787
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000533ED98300000000000005A2
+t1396627843
+s1442
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000533ED9830000000000003764
+t1396627843
+s14180
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000533ED98300000000000004B4
+t1396627843
+s1204
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000533ED9830000000000002814
+t1396627843
+s10260
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000533ED9830000000000000392
+t1396627843
+s914
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000533ED98300000000000004D8
+t1396627843
+s1240
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000533ED983000000000000037D
+t1396627843
+s893
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000533ED98300000000000022CC
+t1396627843
+s8908
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000533ED98300000000000005DA
+t1396627843
+s1498
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000533ED9830000000000001059
+t1396627843
+s4185
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000533ED98300000000000003A0
+t1396627843
+s928
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000533ED9830000000000000584
+t1396627843
+s1412
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000533ED9830000000000000476
+t1396627843
+s1142
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000533ED9830000000000000620
+t1396627843
+s1568
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000533ED9830000000000000346
+t1396627843
+s838
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1396627919
+s61392
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1396627919
+s61380
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1396627919
+s27472
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1396627918
+s18256
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1396627919
+s10584
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1396627919
+s106452
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1396627919
+s57128
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1396627918
+s36648
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1396627920
+s9056
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1396627920
+s22616
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1396627919
+s68896
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1396627920
+s50776
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1396627920
+s163016
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1396627920
+s67900
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1396627918
+s42436
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c00000000533ED9CB0000000000000D43
+t1396627915
+s3395
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1396627919
+s7228
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1396627918
+s10920
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1396627918
+s17340
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1396627918
+s6784
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1396627919
+s9204
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h
+t1396627915
+s1302
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t1396627915
+s3293
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t1396627915
+s2234
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t1396627915
+s1205
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t1396627915
+s1283
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t1396627915
+s1227
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t1396627915
+s1025
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t1396627915
+s2022
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t1396627915
+s986
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t1396627915
+s1743
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t1396627915
+s2194
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t1396627915
+s3091
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t1396627915
+s1032
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t1396627915
+s998
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t1396627915
+s909
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t1396627915
+s1052
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t1396627915
+s1057
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t1396627915
+s2764
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t1396627915
+s1442
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t1396627915
+s1204
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t1396627915
+s914
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t1396627915
+s893
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t1396627915
+s1498
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t1396627915
+s928
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t1396627915
+s1142
+
+N/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a
+t1396627920
+s863184
+
+N/var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.pch
+t1396627918
+s3239288
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa22983344800b941^d2556e354800b941^---0#1#1#--18"Check dependencies36"CA8BD7E3-6D20-4395-B789-C778BF6FC0B5-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.718589
+e418320719.937877
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb91bb84f11efb841^0919f04f11efb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3935"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"D21E49FF-BCA5-44F6-8784-350EB5423776-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.654557
+e418320719.912875
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdeaea74f11efb841^4fb2e94f11efb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3893"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"46F72DAD-2394-4844-8CE5-C785AB4CC508-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.818128
+e418320719.912313
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7193d14f11efb841^4c8ce94f11efb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3893"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"B82E453F-2E8D-42A8-B9A6-09A93C09E281-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.609946
+e418320718.824209
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercd589c4e11efb841^7710d34e11efb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3923"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"BA7618BA-4228-4818-B664-F2EB97DC5CE5-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.912605
+e418320719.938445
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerccd3e94f11efb841^533ef04f11efb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3845"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"AD4BCCEB-005D-41F4-A585-DCF7C0636CC6-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.943564
+e418320719.653834
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3eaef14e11efb841^77f3a84f11efb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3893"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"EB103806-5E8E-425C-9A64-1A0659CFDE58-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.823141
+e418320719.606709
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0b0ad34e11efb841^26519b4f11efb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3857"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"A57285A4-5230-4C09-B225-55EA782F393A-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.611413
+e418320718.841300
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08b09c4e11efb841^705fd74e11efb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3893"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"36DB9498-CFBD-4F30-947D-627A38A509A6-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320720.054004
+e418320720.116995
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler17f50d5011efb841^07081e5011efb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3857"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"E5864BB2-40C2-4DCB-A649-0C3696B4687C-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.938681
+e418320720.053631
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0070f04f11efb841^b4ae0d5011efb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3851"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"3AE67560-D642-4E54-8C4A-505E064CEC37-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.841820
+e418320719.653066
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3ab1d74e11efb841^882fa74f11efb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3887"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"CFC42C74-786F-4E15-9102-ED9FABCDA5C3-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.913140
+e418320720.173608
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler94f7e94f11efb841^e7712c5011efb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3899"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"FD88AF18-5120-4AFA-B7CA-3F6AB4ADEA04-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.941741
+e418320720.290284
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd38f14e11efb841^ce524a5011efb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3905"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"1B05F5E8-90A7-486B-9811-D1F9BF1EFA61-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.938225
+e418320720.179647
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerce6ff04f11efb841^e90a2e5011efb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3911"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"A6DCBC8F-9965-4D25-8871-45566E7C7CEE-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.824652
+e418320718.942794
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae49d34e11efb841^e65df14e11efb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3875"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"84735B1E-46C7-45EE-9168-639F037F8B4D-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.653654
+e418320719.717924
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3179a74f11efb841^740cb84f11efb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3917"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"E86B87D6-B7CD-4438-BCF0-C72FB2861BAF-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.610407
+e418320718.822792
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e759c4e11efb841^0aa2d24e11efb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3881"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"05DE8385-C0C8-495A-A172-FEA578236D86-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.609720
+e418320718.823950
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc1389c4e11efb841^b7b8d24e11efb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3941"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"0E1D2B06-3F15-4A72-AF78-406C1FD03133-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320718.824459
+e418320718.940878
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler118cd34e11efb841^0eddf04e11efb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3977"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"DB5395FA-49CB-4EDD-959A-3636691AC220-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320719.608447
+e418320719.817796
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraef39b4f11efb841^444cd14f11efb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3917"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG -include /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"9441795B-4B3F-4009-A216-831D238950A7-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDV.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h
+s418320715.695177
+e418320715.720613
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h133"[1mCpHeader[0m Classes/CDV.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h[0m9911b24b11efb841^71c6b84b11efb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h003448bedfffdf42^765"[1mCpHeader[0m Classes/CDV.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDV.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"7266BF8B-CE39-4EBC-993D-A27BCBD37C27-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVAvailability.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s418320715.695865
+e418320715.720670
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h157"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m1a36b24b11efb841^b7d1b84b11efb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h003448bedfffdf42^801"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"D4F9C132-8FA8-4372-A147-9EA5AFE837EA-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s418320715.694567
+e418320715.720295
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h163"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0mcefdb14b11efb841^fdbdb84b11efb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h003448bedfffdf42^810"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"3300FAF0-4B2B-4855-83CD-2B0AC921690D-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s418320715.723173
+e418320715.723808
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h171"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0mec31b94b11efb841^e04bb94b11efb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h003448bedfffdf42^822"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"12091C14-9E08-4E1F-9A66-F1D75C858D8C-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVCommandQueue.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s418320715.722097
+e418320715.743572
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h157"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0mfcfbb84b11efb841^9e5dbe4b11efb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h003448bedfffdf42^801"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"DA50A8E0-5173-428F-8DFD-7CD426DF1860-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVConfigParser.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s418320715.744324
+e418320715.746070
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h157"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m20b4be4b11efb841^a515bf4b11efb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h003448bedfffdf42^801"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"AE783122-9064-42BD-88B9-FFB3E53D52F7-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVDebug.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s418320715.668965
+e418320715.689777
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h143"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0mec4eab4b11efb841^849fb04b11efb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h003448bedfffdf42^780"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"B5EF8CE5-28A6-475D-BE57-C9053C531DF5-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s418320715.652582
+e418320715.689767
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h167"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m492ea74b11efb841^0795b04b11efb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h003448bedfffdf42^816"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"442D0E5B-A985-4C77-8840-833B42753BDE-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVJSON.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s418320715.745193
+e418320715.778904
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h141"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m2ee3be4b11efb841^5a68c74b11efb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h003448bedfffdf42^777"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"CA775D0C-DB32-471D-A4DF-4346A231480D-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVLocalStorage.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s418320715.720519
+e418320715.743714
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h157"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m6493b84b11efb841^9a79be4b11efb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h003448bedfffdf42^801"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"9976E28A-A30A-43A1-AD55-689ADEA70483-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVPlugin.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s418320715.668182
+e418320715.668812
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h145"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m501dab4b11efb841^9737ab4b11efb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h003448bedfffdf42^783"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"B4723037-A6B7-48A9-B243-6B6731D61D27-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVPluginResult.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s418320715.653882
+e418320715.692356
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h157"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m4371a74b11efb841^923eb14b11efb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h003448bedfffdf42^801"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"283BD51A-706E-498A-ADAB-14B9AA44A3B8-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s418320715.743957
+e418320715.745810
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h183"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m268cbe4b11efb841^a6eebe4b11efb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h003448bedfffdf42^840"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"FADBC130-CA8B-4E77-996F-F733CA955D7E-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVShared.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s418320715.723951
+e418320715.743614
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h145"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m8863b94b11efb841^e274be4b11efb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h003448bedfffdf42^783"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"AF2686C7-575F-40D7-B1C8-49EC42CF79A2-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVTimer.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s418320715.746970
+e418320715.781717
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h143"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0mdb52bf4b11efb841^321fc84b11efb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h003448bedfffdf42^780"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"F537DD0C-200C-4256-8FBC-00DE555853B5-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVURLProtocol.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s418320715.692563
+e418320715.693350
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h155"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0mea5cb14b11efb841^fa7fb14b11efb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h003448bedfffdf42^798"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"277D2B2D-9485-4967-8185-18699AEAD64F-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s418320715.746783
+e418320715.782027
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h159"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m8140bf4b11efb841^a433c84b11efb841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h003448bedfffdf42^804"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"36488665-10E6-42F8-9C3D-994D4109E1BE-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVViewController.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s418320715.693481
+e418320715.694323
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h161"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m2998b14b11efb841^dfbfb14b11efb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h003448bedfffdf42^807"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"9BEBA4D0-0128-4569-865C-79EE61E4208D-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s418320715.746276
+e418320715.782697
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h163"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m7633bf4b11efb841^185fc84b11efb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h003448bedfffdf42^810"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"17D1B25F-E792-4F7C-8A62-2750F2AF2525-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/CDVWhitelist.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s418320715.690192
+e418320715.694856
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h151"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m0dc2b04b11efb841^9606b24b11efb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h003448bedfffdf42^792"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"930C5B1B-326A-45DB-8FD5-82B6491F8E3F-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s418320715.722133
+e418320715.723043
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h165"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m84f0b84b11efb841^bd19b94b11efb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h003448bedfffdf42^813"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"EEB474E6-EAC3-454E-820C-28384CFCE168-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/NSData+Base64.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s418320715.652961
+e418320715.694805
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h153"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m5a45a74b11efb841^76dfb14b11efb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h003448bedfffdf42^795"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"2CDEE639-13AB-4E86-971D-291773B44E0D-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s418320715.652420
+e418320715.667993
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h173"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m552fa74b11efb841^b801ab4b11efb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h003448bedfffdf42^825"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"ADCAF802-361C-40C7-8A0F-13F24F6240CD-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s418320715.690027
+e418320715.720344
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h185"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0maebcb04b11efb841^d063b84b11efb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h003448bedfffdf42^843"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"789B3761-1D4A-4C75-B20D-5CDD5B90E838-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s418320715.721520
+e418320715.743595
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h165"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0mafeab84b11efb841^dc66be4b11efb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h003448bedfffdf42^813"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include/Cordova36"07F61810-B4CB-40FB-B487-35EF03419A2F-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CLibtool /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a normal i386
+s418320720.291921
+e418320720.325052
+r1
+xLibtool
+x/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"[1mLibtool[0m /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a normal i386113"[1mLibtool[0m /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a normal i38652d34a5011efb841^9737535011efb841^---0#0#1#--1100"[1mLibtool[0m /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -filelist /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/libCordova.a36"1A5AC9F4-92FC-48F4-BCB5-7C4E117F5838-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
+CProcessPCH /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418320715.783490
+e418320718.608714
+r1
+xProcessPCH
+x/var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch297"[1mProcessPCH[0m /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler70b3c84b11efb841^e9d69b4e11efb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3837"[1mProcessPCH[0m /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/git/bin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=89 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.d -c /Users/Vlad/Dev/Framework7/xfinity_NCTA_app/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/pn/hn32_lcx0rbctrd4xc183f9w0000gp/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-anmjdgrqizynxectgrjhmywybmcy/CordovaLib_Prefix.pch.pch36"C7067C1D-CF50-4429-A29C-7FB9FFB7BBBD-
+b4CF53F76-9AE5-41E1-89D5-D9E8FCC16D6C
+
