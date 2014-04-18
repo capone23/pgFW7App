@@ -6,7 +6,7 @@ body{
 }
 
 .menuOverlay{
-	width: 263px;
+	width: 270px;
 	margin: 100px auto;
 }
 
@@ -18,6 +18,9 @@ body{
 	padding:  10px 0 10px 0;
 	font-size: 1em;
 	color: #1471da; 
+}
+.index-menu{
+	font-size: 1.2em!important;
 }
 
 .overlay-ipo{
